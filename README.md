@@ -21,7 +21,8 @@ Verifica se há espaço para mais um elemento no vetor, caso tenha, um novo elem
 
 - Remove  
 É calculada a diferença entre N e P para encontrar em que posição se encontra o último elemento.  
-  - **Só pode ser executada se houver ao menos um elemento na árvore**
+  - **Só pode ser executada se houver ao menos um elemento na árvore**  
+
 Uma vez encontrado, o último elemento é movido para a primeira posição e então removido.  
 O valor de P é diminuido.  
 
